@@ -1212,6 +1212,96 @@ a {
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-sCXftS1FzL {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sCXftS1FzL .fb-page,
+.cid-sCXftS1FzL span,
+.cid-sCXftS1FzL iframe {
+  width: 500px;
+  height: 570px;
+}
+.cid-sCXftS1FzL blockquote {
+  display: none;
+}
+.cid-sCXftS1FzL .fb-page {
+  background-color: #1877f2;
+  border-radius: 4px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: #fff;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 262 266.895'><path id='path3087' fill='%23fff' d='M182.409,262.307v-99.803h33.499l5.016-38.895h-38.515V98.777c0-11.261,3.127-18.935,19.275-18.935 l20.596-0.009V45.045c-3.562-0.474-15.788-1.533-30.012-1.533c-29.695,0-50.025,18.126-50.025,51.413v28.684h-33.585v38.895h33.585 v99.803H182.409z'></path></svg>");
+}
+.cid-sCXrrxU2LI {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sCXrrxU2LI .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-sCXrrxU2LI .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-sCXrrxU2LI .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-sCXrrxU2LI .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-sCXrrxU2LI .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-sCXrrxU2LI .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-sCXrrxU2LI .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-sCXrrxU2LI .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-sCXrrxU2LI .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-sCXrrxU2LI .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-sCXrrxU2LI .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-sCXrrxU2LI .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-sCXrrxU2LI .btn-social {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
+}
+.cid-sCXrrxU2LI .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
+}
+.cid-sCXrrxU2LI [class^="socicon-"]:before,
+.cid-sCXrrxU2LI [class*=" socicon-"]:before {
+  line-height: 55px;
+}
 .cid-sCQamrBAfo {
   padding-top: 5rem;
   padding-bottom: 5rem;
